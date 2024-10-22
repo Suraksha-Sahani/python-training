@@ -9,6 +9,8 @@ env/
 *.env
 .venv/
 
+fastapienv/
+
 # Jupyter Notebooks
 .ipynb_checkpoints
 
