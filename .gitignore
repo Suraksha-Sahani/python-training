@@ -1,0 +1,44 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+*.env
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and other output
+*.log
+*.out
+*.pid
+*.swp
+
+# Test and coverage reports
+coverage/
+.tox/
+.nox/
+*.cover
+*.coverage
+*.coveragerc
+
+# Editor and IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
